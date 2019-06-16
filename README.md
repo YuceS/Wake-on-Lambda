@@ -1,3 +1,65 @@
+
+
+
+fetch with hooks
+check button send API request
+expand
+search
+
+https://react-bootstrap-table.github.io/react-bootstrap-table2/storybook/index.html?selectedKind=Basic%20Table&selectedStory=Indication%20For%20Empty%20Table&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybook%2Factions%2Factions-panel
+
+
+Use React-Hooks:
+
+https://reactjs.org/docs/hooks-overview.html
+
+https://medium.com/@cwlsn/how-to-fetch-data-with-react-hooks-in-a-minute-e0f9a15a44d6
+
+
+
+
+
+https://medium.com/@ruthmpardee/passing-data-between-react-components-103ad82ebd17
+
+https://blog.logrocket.com/patterns-for-data-fetching-in-react-981ced7e5c56/
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Authorization
+
+
+
+
+
+
+refresh tokens, do they get received automatically?
+
+
+https://medium.com/keen-studio/react-websockets-a-raspberry-pi-building-keens-new-site-664deb96f266
+
+https://tutorials-raspberrypi.com/raspberry-pi-mqtt-broker-client-wireless-communication/
+
+https://www.linux.com/blog/run-google-chrome-raspberry-pi
+
+mesh of raspberry pi's, globsally, service discovery on AWS,
+        bornova online oldugunda sns gonder
+edge computing,
+fog computing
+
+chrome on raspberry or nodeJs on RaspberryPi
+
+UI raspberyy with chrome or V8
+    backend full mesh, node js or python or scala
+
+
+
+https://blog.logrocket.com/author/gsayfan/
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
