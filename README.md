@@ -1,6 +1,4 @@
-
-
-
+Do some tagging
 fetch with hooks
 check button send API request
 expand
@@ -16,17 +14,11 @@ https://reactjs.org/docs/hooks-overview.html
 https://medium.com/@cwlsn/how-to-fetch-data-with-react-hooks-in-a-minute-e0f9a15a44d6
 
 
-
-
-
 https://medium.com/@ruthmpardee/passing-data-between-react-components-103ad82ebd17
 
 https://blog.logrocket.com/patterns-for-data-fetching-in-react-981ced7e5c56/
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Authorization
-
-
-
 
 
 
