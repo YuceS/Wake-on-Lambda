@@ -1,7 +1,7 @@
 
 
 
-##Progressive Web app with router that can be downloadable, fetch hooks and git tagging
+## Progressive Web app with router that can be downloadable, fetch hooks and git tagging
 
 https://react-bootstrap-table.github.io/react-bootstrap-table2/storybook/index.html?selectedKind=Basic%20Table&selectedStory=Indication%20For%20Empty%20Table&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybook%2Factions%2Factions-panel
 
