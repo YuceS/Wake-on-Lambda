@@ -1,13 +1,12 @@
 {
   "name": "mini-console",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "private": true,
   "dependencies": {
     "aws-amplify": "^1.1.28",
     "aws-amplify-react": "^2.3.8",
     "bootstrap": "^4.0.0",
     "react": "^16.8.6",
-    "react-bootstrap-table": "^4.3.1",
     "react-bootstrap-table-next": "^3.1.4",
     "react-bootstrap-table2-filter": "^1.1.9",
     "react-bootstrap-table2-toolkit": "^2.0.1",
