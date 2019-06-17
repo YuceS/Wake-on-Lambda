@@ -11,7 +11,7 @@ import ToolkitProvider, { Search, CSVExport } from 'react-bootstrap-table2-toolk
 
 
 import BootstrapTable from 'react-bootstrap-table-next'
-import { ConfigurationServicePlaceholders } from 'aws-sdk/lib/config_service_placeholders';
+
 
 Amplify.configure(awsconfig);
 
@@ -106,7 +106,7 @@ state = {
 
 componentWillMount() {
 
- Auth.currentUserInfo().then( atts => this.state.atts = atts);
+ Auth.currentUserInfo().then( atts => this.setState({"atts":atts})).then(console.log(this.state.atts))
   Auth.currentSession()
   .then(res=>{
     return res.getIdToken();
