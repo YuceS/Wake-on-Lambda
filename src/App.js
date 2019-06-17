@@ -11,6 +11,7 @@ import ToolkitProvider, { Search, CSVExport } from 'react-bootstrap-table2-toolk
 
 
 import BootstrapTable from 'react-bootstrap-table-next'
+import { ConfigurationServicePlaceholders } from 'aws-sdk/lib/config_service_placeholders';
 
 Amplify.configure(awsconfig);
 
@@ -81,6 +82,7 @@ state = {
     url:'https://j592sbi4q8.execute-api.eu-west-2.amazonaws.com/default/list_instances',
 //      rowCount: products.length,
   instances: [],
+  atts:null,
   columns: [{
     dataField: 'id',
     text: 'Product ID',
@@ -103,6 +105,8 @@ state = {
 }
 
 componentWillMount() {
+
+ Auth.currentUserInfo().then( atts => this.state.atts = atts);
   Auth.currentSession()
   .then(res=>{
     return res.getIdToken();
