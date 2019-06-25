@@ -1,3 +1,3 @@
 ## Progressive Web app 
 
-GitOps, KNative, POrogressive Web App
+GitOps, KNative, Progressive Web App, Git tagging
